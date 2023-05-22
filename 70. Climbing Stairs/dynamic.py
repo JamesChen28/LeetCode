@@ -1,5 +1,6 @@
 
 ## https://leetcode.com/problems/climbing-stairs/
+## Difficulty = Easy
 
 class Solution(object):
     def climbStairs(self, n):

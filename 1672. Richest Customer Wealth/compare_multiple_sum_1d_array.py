@@ -1,5 +1,6 @@
 
 ## https://leetcode.com/problems/richest-customer-wealth/
+## Difficulty = Easy
 
 class Solution(object):
     def maximumWealth(self, accounts):

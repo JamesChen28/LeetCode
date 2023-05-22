@@ -1,5 +1,6 @@
 
-# https://leetcode.com/problems/palindrome-number/
+## https://leetcode.com/problems/palindrome-number/
+## Difficulty = Easy
 
 class Solution(object):
     def isPalindrome(self, x):

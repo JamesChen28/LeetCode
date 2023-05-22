@@ -1,5 +1,6 @@
 
 ## https://leetcode.com/problems/remove-element/
+## Difficulty = Easy
 
 class Solution(object):
     def removeElement(self, nums, val):

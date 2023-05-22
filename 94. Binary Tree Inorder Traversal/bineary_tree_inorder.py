@@ -1,5 +1,6 @@
 
 ## https://leetcode.com/problems/binary-tree-inorder-traversal/
+## Difficulty = Easy
 
 # Definition for a binary tree node.
 # class TreeNode(object):
@@ -39,7 +40,8 @@ n1.right = n2
 n2.left = n3
 Solution().inorderTraversal(n1)
 
-
+# pending
+# how to create function to use root to implement
 Solution().inorderTraversal(root = [1, None, 2, 3])
 Solution().inorderTraversal(root = [])
 Solution().inorderTraversal(root = [1])

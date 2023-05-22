@@ -1,5 +1,6 @@
 
 ## https://leetcode.com/problems/sqrtx/
+## Difficulty = Easy
 
 class Solution(object):
     def mySqrt(self, x):

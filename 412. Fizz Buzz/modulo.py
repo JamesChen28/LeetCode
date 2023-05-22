@@ -1,5 +1,6 @@
 
 ## https://leetcode.com/problems/fizz-buzz/
+## Difficulty = Easy
 
 class Solution(object):
     def fizzBuzz(self, n):

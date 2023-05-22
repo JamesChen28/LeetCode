@@ -1,5 +1,6 @@
 
 ## https://leetcode.com/problems/middle-of-the-linked-list/
+## Difficulty = Easy
 
 # Definition for singly-linked list.
 # class ListNode(object):

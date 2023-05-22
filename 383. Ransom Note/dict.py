@@ -1,5 +1,6 @@
 
 ## https://leetcode.com/problems/ransom-note/
+## Difficulty = Easy
 
 class Solution(object):
     def canConstruct(self, ransomNote, magazine):
