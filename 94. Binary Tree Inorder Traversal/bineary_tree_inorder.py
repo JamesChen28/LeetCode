@@ -41,7 +41,7 @@ n2.left = n3
 Solution().inorderTraversal(n1)
 
 # pending
-# how to create function to use root to implement
+# how to create function to use root to implement?
 Solution().inorderTraversal(root = [1, None, 2, 3])
 Solution().inorderTraversal(root = [])
 Solution().inorderTraversal(root = [1])

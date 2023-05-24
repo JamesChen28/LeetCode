@@ -42,14 +42,14 @@ for file in all_files:
     if result3:
         total_hard = total_hard + 1
 
-# overwrite  difficulty in README.md
+# overwrite difficulty in README.md
 f = open('README.md')
 text = f.read()
-print(text)
+# print(text)
 
-pattern_easy = r'Easy = \d  \n'
-pattern_mediun = r'Medium = \d  \n'
-pattern_hard = r'Hard = \d  \n'
+pattern_easy = r'Easy = \d+  \n'
+pattern_mediun = r'Medium = \d+  \n'
+pattern_hard = r'Hard = \d+  \n'
 
 new_value_easy = 'Easy = ' + str(total_easy) + '  \n'
 new_value_medium = 'Medium = ' + str(total_medium) + '  \n'
