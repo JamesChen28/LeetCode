@@ -7,7 +7,9 @@ all_folders = os.listdir(os.getcwd())
 all_folders.remove('.git')
 all_folders.remove('README.md')
 all_folders.remove('statistics_problems.py')
+all_folders.remove('template.py')
 
+# os.walk() is a more quick function to get filename and filepath
 # mypath = os.getcwd()
 # [os.path.join(dirpath,f) for (dirpath, dirnames, filenames) in os.walk(mypath) for f in filenames]
 
@@ -29,7 +31,6 @@ total_hard = 0
 for file in all_files:
     f = open(all_files[0], 'r')
     text = f.read()
-    # print(text)
     f.close()
     
     result1 = re.search(pattern1, text)
