@@ -6,7 +6,7 @@ Record my LeetCode solutions by Python.
 I will write down my solution and test case. In the final, I will record my concept to help understand the logic.
 
 ## Statistics Difficulty
-Easy = 23  
+Easy = 24  
 Medium = 0  
 Hard = 0  
 
